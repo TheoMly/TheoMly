@@ -5,7 +5,6 @@
 
 - 📫 Reach me here or on LinkedIn **https://www.linkedin.com/in/theo-melly/**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
