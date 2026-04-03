@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Theo</h1>
 <h3 align="center">A passionate finance developer from France</h3>
 
-- 🌱 I’m currently learning **Stochastic calculus and pricing**
-
-- 📫 Reach me here or on LinkedIn **https://www.linkedin.com/in/theo-melly/**
-
 <p align="left">
 </p>
 
